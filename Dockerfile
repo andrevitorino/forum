@@ -1,6 +1,5 @@
 #docker build -t liftup/forum .
 #docker run liftup/forum
-#dashboard.heroku.com/apps/alura-forum/settings
 #devcenter.heroku.com.articles/container-registry-and-runtime
 
 FROM openjdk:8-jdk-alpine
